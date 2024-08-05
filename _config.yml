@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://staging.d1lx11zcksi2jl.amplifyapp.com
-prod: https://master.d1lx11zcksi2jl.amplifyapp.com
+staging: https://staging-lite.d1umx0sgnbcr90.amplifyapp.com
+prod: https://master.ddrozopg9clby.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
 is_government: false
